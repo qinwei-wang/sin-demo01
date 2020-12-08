@@ -1,0 +1,12 @@
+{
+    "name": "wqw/sin-demo01",
+    "authors": [
+        {
+            "name": "wangqinwei",
+            "email": "sin.wang@patpat.com"
+        }
+    ],
+    "require": {
+        "guzzle/http": "^3.9"
+    }
+}
