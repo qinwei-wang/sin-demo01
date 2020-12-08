@@ -10,7 +10,7 @@ pipeline {
         stage('build') {
             steps {
                 echo 'build'
-                sh 'composer update'
+                sh 'composer install'
             }
         }
     }
